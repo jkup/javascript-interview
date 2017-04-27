@@ -1,4 +1,4 @@
-# Javascript Interview
+# JavaScript Interview
 
 Below is a list of resources preparing for a JavaScript interview! Please add your own via pull requests or by filing an issue!
 
@@ -22,3 +22,7 @@ Below is a list of resources preparing for a JavaScript interview! Please add yo
 + [Egghead](https://egghead.io/) Both free and premium videos. Egghead is bite-sized JavaScript videos.
 + [Code School](https://www.codeschool.com/) Beautiful site and a great resource for beginners.
 + [Wes Bos](http://wesbos.com/courses) Wes has incredible free and premium courses on a variety of topics.
+
+## Articles
+
++ [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) James does such an incredible job of breaking down all the major data structures with JavaScript examples.
