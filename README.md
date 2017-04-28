@@ -7,7 +7,7 @@ Below is a list of resources preparing for a JavaScript interview! Please add yo
 + [Cracking the Coding Interview](http://a.co/a9uhLXt) The de facto book for preparing for software interviews.
 + [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) A great quick summary of how to write reliable JavaScript.
 + [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) Incredible in-depth book series on JavaScript internals.
-+ [Secrets of the JavaScript Ninja](https://github.com/jasonzhuang/tech_books/blob/master/js/Secrets%20of%20the%20JavaScript%20Ninja.pdf) This book will give you the knowledge you need to create a cross-browser JavaScript library from the ground up.
++ [Secrets of the JavaScript Ninja](https://www.amazon.fr/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X) This book will give you the knowledge you need to create a cross-browser JavaScript library from the ground up.
 
 ## Interactive
 
