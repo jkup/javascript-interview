@@ -7,6 +7,7 @@ Below is a list of resources preparing for a JavaScript interview! Please add yo
 + [Cracking the Coding Interview](http://a.co/a9uhLXt) The de facto book for preparing for software interviews.
 + [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) A great quick summary of how to write reliable JavaScript.
 + [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) Incredible in-depth book series on JavaScript internals.
++ [Javascript Technical Interview Questions](https://leanpub.com/jsinterviewquestions) This a book that will help you prepare for your JavaScript interview.
 
 ## Interactive
 
