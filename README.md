@@ -16,6 +16,10 @@ Below is a list of resources preparing for a JavaScript interview! Please add yo
 + [Codewars](https://www.codewars.com/) The prettiest of the interactive sites. Compete with others and earn points while sharpening your skills.
 + [HackerRank](https://www.hackerrank.com/) Another good option. Lots of big companies like Facebook and Twitter use this platform to give questions so it's at least worth familiarizing yourself with.
 
+### Learn JS with live code snippets
+
++ [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+
 ## Videos
 
 + [Frontend Masters](https://frontendmasters.com) A pay site with great courses on everything web development.
@@ -27,3 +31,4 @@ Below is a list of resources preparing for a JavaScript interview! Please add yo
 
 + [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) James does such an incredible job of breaking down all the major data structures with JavaScript examples.
 + [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) Eric Elliott
++ [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language
