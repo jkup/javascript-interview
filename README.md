@@ -27,3 +27,4 @@ Below is a list of resources preparing for a JavaScript interview! Please add yo
 
 + [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) James does such an incredible job of breaking down all the major data structures with JavaScript examples.
 + [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) Eric Elliott
++ [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer)) A list of practical JavaScript questions that covers concepts, algorithms, debugging, and architecture.
